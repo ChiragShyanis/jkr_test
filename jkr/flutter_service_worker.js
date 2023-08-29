@@ -3,8 +3,16 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "154eaf6e0d76818581e9598fa4dfc870",
-"assets/AssetManifest.json": "fd04022880c566bf25e368ac915e301c",
+const RESOURCES = {"assets/AssetManifest.bin": "d83d9c91a46eccf495e4fb95be7d6af4",
+"assets/AssetManifest.json": "dccbfceec9b15552a1a8fd00e4bc4bc9",
+"assets/assets/excel/AcCapacities.xlsx": "e8ceb2e0908c1e94227828972da18a99",
+"assets/assets/excel/AcCompany.xlsx": "23b10e96a75ddeb6a69013e3f614977e",
+"assets/assets/excel/AcTypes.xlsx": "ac4c5853517ad238c63aa96cc0d04910",
+"assets/assets/excel/AddStockDetails.xlsx": "c0a49e66a5fb20c4e22c39d3e4d6ff40",
+"assets/assets/excel/Dealers.xlsx": "5528fcc6ba750bcdc6a584e8ac472343",
+"assets/assets/excel/ModelIndoorNumbers.xlsx": "ac666788ba45253bcbcc0230bd990d27",
+"assets/assets/excel/ModelOutdoorNumbers.xlsx": "bfdb9602f54e1462747bf5bfac393cb9",
+"assets/assets/excel/SoldStockDetails.xlsx": "be4b8e3bc098b7e5ded8e8be5a1a2a80",
 "assets/assets/fonts/CanelaBark_PERSONAL.ttf": "1be8cd88805e654a1dc13337f7da1255",
 "assets/assets/fonts/Metropolis-Regular.otf": "f7b5e589f88206b4bd5cb1408c5362e6",
 "assets/assets/fonts/metropolis.light.otf": "c82170e08b76657553ab939bd28e8515",
@@ -96,8 +104,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "154eaf6e0d76818581e9598fa4dfc870
 "flutter.js": "6b515e434cea20006b3ef1726d2c8894",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "c8c31ab478bd91d09ae4145da3db1e82",
-"/": "c8c31ab478bd91d09ae4145da3db1e82",
+"index.html": "873d41e130393502a016a0e6fefa2dc9",
+"/": "873d41e130393502a016a0e6fefa2dc9",
 "main.dart.js": "53cc30aa4f066b0f80c5b06acb43d431",
 "manifest.json": "47d1c9f16f2093b9b8f660922e274443",
 "version.json": "7f358a298adc3d5329a7f650672cb59b"};
