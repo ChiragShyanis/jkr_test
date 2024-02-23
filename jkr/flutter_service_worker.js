@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "d83d9c91a46eccf495e4fb95be7d6af4",
-"assets/AssetManifest.bin.json": "3f45a3442127e69bc35e1b20b1b53a20",
-"assets/AssetManifest.json": "dccbfceec9b15552a1a8fd00e4bc4bc9",
+const RESOURCES = {"assets/AssetManifest.bin": "04afccc0307aaff3e80ce37983cbf542",
+"assets/AssetManifest.bin.json": "8157f68407adaebda28b7ebe81a92444",
+"assets/AssetManifest.json": "bcfca4ff208f70d00e3616f46d345fa5",
 "assets/assets/excel/AcCapacities.xlsx": "e8ceb2e0908c1e94227828972da18a99",
 "assets/assets/excel/AcCompany.xlsx": "23b10e96a75ddeb6a69013e3f614977e",
 "assets/assets/excel/AcTypes.xlsx": "ac4c5853517ad238c63aa96cc0d04910",
@@ -13,7 +13,6 @@ const RESOURCES = {"assets/AssetManifest.bin": "d83d9c91a46eccf495e4fb95be7d6af4
 "assets/assets/excel/Dealers.xlsx": "5528fcc6ba750bcdc6a584e8ac472343",
 "assets/assets/excel/ModelIndoorNumbers.xlsx": "ac666788ba45253bcbcc0230bd990d27",
 "assets/assets/excel/ModelOutdoorNumbers.xlsx": "bfdb9602f54e1462747bf5bfac393cb9",
-"assets/assets/excel/SoldStockDetails.xlsx": "be4b8e3bc098b7e5ded8e8be5a1a2a80",
 "assets/assets/fonts/CanelaBark_PERSONAL.ttf": "1be8cd88805e654a1dc13337f7da1255",
 "assets/assets/fonts/Metropolis-Regular.otf": "f7b5e589f88206b4bd5cb1408c5362e6",
 "assets/assets/fonts/metropolis.light.otf": "c82170e08b76657553ab939bd28e8515",
@@ -105,9 +104,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "d83d9c91a46eccf495e4fb95be7d6af4
 "flutter.js": "59a12ab9d00ae8f8096fffc417b6e84f",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "0685ff208b4eefc40c0b924b71353f70",
-"/": "0685ff208b4eefc40c0b924b71353f70",
-"main.dart.js": "4d3ffa3fccea19fd5b6955166b2ec11d",
+"index.html": "29a964c3bfd03ea20e62be43a1b32711",
+"/": "29a964c3bfd03ea20e62be43a1b32711",
+"main.dart.js": "7e21aa901311eb9193c1f14a6344f760",
 "manifest.json": "47d1c9f16f2093b9b8f660922e274443",
 "version.json": "7f358a298adc3d5329a7f650672cb59b"};
 // The application shell files that are downloaded before a service worker can
